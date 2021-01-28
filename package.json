@@ -1,0 +1,9 @@
+{
+  "name": "generate-hash",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "uuid": "8.3.2"
+  }
+}
